@@ -12,4 +12,4 @@ Check out the Ocean Data Ontolody (odo:) https://ocean-data.org/schema/
 
 *WARNING*: The number of SPARQL requests made at one time on the BCO-DMO endpoint is limited. Additionally, the number of results on the endpoint is capped at 10,000 (common restriction for public SPARQL endpoints). 
 
-[Mapping with NERC Vocabulary tool](https://bcodmo-template-test.herokuapp.com/) <-- The code is not public currently, but we will eventually be making the app we are developing for mapping public.
+[Mapping with NERC Vocabulary tool](https://bcodmo-template-test.herokuapp.com/) <-- The code is not public currently, but we will eventually make the app public.
