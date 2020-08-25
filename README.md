@@ -1,5 +1,5 @@
 # SciPy_2020_Ocean_Data
-Collection of files and demos associated with SciPy 2020 Talk "Oceanography, Data Ontology, and the Semantic Web"
+Collection of files and demos associated with SciPy 2020 Talk "[Oceanography, Data Ontology, and the Semantic Web](https://www.youtube.com/watch?v=gv55W--XCHw&amp;index=5)". 
 
 Repo with examples of how to explore and plot data in the [BCO-DMO](https://www.bco-dmo.org/
 ) data repository using the BCO-DMO Knowledge Graph with Python and Jupyter
